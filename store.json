@@ -1,0 +1,10 @@
+{
+    "store_items":[
+        {
+            "itemID": "item0001",
+            "name": "Frite de mémé",
+            "desc": "Ah les frites de mémé, ça doit faire des mois que je n'en ai pas mangé !!",
+            "price": "2"
+        }
+    ]
+}
